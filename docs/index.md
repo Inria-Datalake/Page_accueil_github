@@ -46,8 +46,15 @@
     
     [Ouvrir le repo Github](https://github.com/pit9111/grobid-client-test){ .md-button .md-button--primary target="_blank" }
 
+!!! abstract "Dashboard Copublications"
 
+<p align="center">
+  <a href="https://gamma.app/embed/4jxovjrrlofe5uk" target="_blank">
+    <img src="https://raw.githubusercontent.com/Inria-Datalake/Copublications/main/images/dashboard-preview.png" alt="Dashboard Copublications" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+  </a>
+</p>
 
+[Ouvrir le repo Github](https://github.com/Inria-Datalake/Copublications){ .md-button .md-button--primary target="_blank" }
 
     
 
