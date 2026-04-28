@@ -38,6 +38,7 @@ theme:
 plugins:
   - search
   - macros
+  - iframe
 
 # CSS Personnalisé
 extra_css:
