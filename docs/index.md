@@ -50,7 +50,9 @@
 !!! abstract "Dashboard Copublications"
 
     <p align="center">
-      <a href="https://gamma.app/embed/4jxovjrrlofe5uk" target="_blank" class="md-button md-button--primary">Ouvrir le Dashboard</a>
+      <a href="https://gamma.app/embed/4jxovjrrlofe5uk" target="_blank">
+        <img src="[https://raw.githubusercontent.com/Inria-Datalake/Copublications/main/images/dashboard-preview.png](https://raw.githubusercontent.com/Inria-Datalake/copublications-dashboard/refs/heads/main/assets/image_dash_copubli.png)" alt="Dashboard Copublications" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+      </a>
     </p>
 
     [Ouvrir le repo Github](https://github.com/Inria-Datalake/Copublications){ .md-button .md-button--primary target="_blank" }
