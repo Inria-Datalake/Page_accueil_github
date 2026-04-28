@@ -49,9 +49,12 @@
 
 !!! abstract "Dashboard Copublications"
 
-
+    <p align="center">
+      <a href="https://gamma.app/embed/4jxovjrrlofe5uk" target="_blank" class="md-button md-button--primary">Ouvrir le Dashboard</a>
+    </p>
 
     [Ouvrir le repo Github](https://github.com/Inria-Datalake/Copublications){ .md-button .md-button--primary target="_blank" }
+
 
 
 <!-- ===================================================== -->
