@@ -46,7 +46,15 @@
     
     [Ouvrir le repo Github](https://github.com/pit9111/grobid-client-test){ .md-button .md-button--primary target="_blank" }
 
-!!! abstract "Dashboard Copublications"
+!!! note "Copublications - Extraction des données de HAL"
+
+    {{ external_section("https://raw.githubusercontent.com/Inria-Datalake/Copublications/main/README.md") }}
+
+    [Ouvrir le repo Github](https://github.com/Inria-Datalake/Copublications){ .md-button .md-button--primary target="_blank" }
+
+
+
+!!! abstract "Copublications - Dashboard"
 
     <p align="center">
       <a href="https://gamma.app/embed/4jxovjrrlofe5uk" target="_blank">
